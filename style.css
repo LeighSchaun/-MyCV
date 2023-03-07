@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  h1, h2 {
+    color: #005580;
+    text-decoration: underline;
+  padding-left:10px;
+  }
+  
+  .section {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color:rgba(255, 99, 71, 0.4);
+    border-radius:20px;
+  }
